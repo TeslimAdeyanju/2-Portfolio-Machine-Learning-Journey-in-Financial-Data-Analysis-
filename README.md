@@ -1,6 +1,8 @@
+
 # Welcome to My Machine Learning Journey in Financial Data Analysis
 
 Over the next three months, I'll be diving deep into a **Machine Learning** course designed to enhance not only my ML skills but also my ability to apply them specifically to financial data analysis. I’m thrilled to share every part of this journey—assignments, insights, and my growing toolkit—right here with you all. 📘✨
+
 
 This isn't just any course—it's an in-depth exploration covering key ML topics, tailored to deliver actionable insights for financial data professionals like me. Here’s a peek into some core modules and how I’ll be leveraging them for finance:
 
