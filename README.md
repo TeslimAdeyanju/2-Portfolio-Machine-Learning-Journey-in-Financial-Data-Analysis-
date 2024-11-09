@@ -1,4 +1,4 @@
-<h1>Welcome to My Machine Learning Journey 🚀</h1>
+<h1>Welcome to My Machine Learning Journey </h1>
 Over the next three months, I’ll be diving deep into an exciting **Machine Learning** course, and I’m thrilled to share my progress, assignments, and notes with all of you. 📘✨
 
 This isn’t just another course—it's a full-on adventure that takes on key ML topics, like:
